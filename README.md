@@ -1,6 +1,6 @@
 # 👨‍💻 Hola, soy Jhon Fredy
 
-💻 **Desarrollador Web en formación** con experiencia práctica en **JavaScript, HTML, CSS y Bootstrap**.  
+💻 **Desarrollador Web en formación** con experiencia práctica en **JavaScript, HTML, CSS, Bootstrap y en formación con React**.  
 🌐 Apasionado por la **tecnología desde niño**, con trayectoria en el sector y un enfoque en crear **soluciones funcionales, creativas y optimizadas**.  
 🚀 Siempre en constante aprendizaje, explorando nuevas herramientas y tecnologías para crecer en el mundo del **desarrollo web y la innovación tecnológica**.  
 
