@@ -24,6 +24,13 @@ Convertirme en un desarrollador capaz de **transformar ideas en proyectos digita
 
 ---
 
+## 🌍 Más sobre mí
+
+✨ Fuera de la pantalla me encontrarás disfrutando de mi tiempo con mi **familia** y mi **hermosa mascota Duna 🐶**, además de conocer nuevos lugares 🌎.  
+💖 Me encanta **viajar, descubrir culturas y vivir experiencias que inspiran mi creatividad**.  
+
+---
+
 ## 📬 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-f-mendieta-4b75b8126/)
