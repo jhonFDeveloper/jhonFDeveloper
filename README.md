@@ -20,7 +20,9 @@
 
 ## 🌟 Objetivo
 
-Convertirme en un desarrollador capaz de **transformar ideas en proyectos digitales de impacto**, combinando **creatividad, lógica y buenas prácticas de desarrollo**.  
+Avanzar en mi carrera hasta convertirme en **Desarrollador Senior**, consolidando mi experiencia con proyectos reales, aprendiendo de cada desafío y aplicando las mejores prácticas en el desarrollo de software.  
+✨ Mi meta es aportar valor creando **soluciones innovadoras, escalables y de impacto**, mientras sigo creciendo como profesional y compartiendo conocimiento con la comunidad.
+ 
 
 ---
 
