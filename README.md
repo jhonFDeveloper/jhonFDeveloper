@@ -14,6 +14,11 @@
 
 ---
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,bootstrap,git,github,mysql,mongodb" />
+</p>
+---
+
 ## 🌟 Objetivo
 
 Avanzar en mi carrera hasta convertirme en **Desarrollador Senior**, consolidando mi experiencia con proyectos reales, aprendiendo de cada desafío y aplicando las mejores prácticas en el desarrollo de software.  
