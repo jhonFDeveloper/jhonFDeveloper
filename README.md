@@ -9,7 +9,7 @@
 ## 🛠️ Tecnologías y Herramientas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,npm,mysql,firebase,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,npm,mysql,firebase,bootstrap,git,github,vscode,postman" />
 </p>
 
 ---
