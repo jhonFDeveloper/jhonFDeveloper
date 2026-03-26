@@ -10,6 +10,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,npm,mysql,firebase,bootstrap,git,github,vscode,postman" />
+   <img src="https://cdn.simpleicons.org/appian" height="48" alt="Appian" />
 </p>
 
 ---
